@@ -1,0 +1,8 @@
+body {
+    display: -ms-grid;
+    display: grid; 
+}
+
+header {
+    color: darkblue;
+}
